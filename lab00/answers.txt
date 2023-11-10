@@ -1,3 +1,7 @@
+mv
+chmod
+pwd
+ping
 1. grep -r
 2. ps -e
 3. kill
